@@ -1,6 +1,6 @@
 # Arabic Handwritten Characters Recognition
 #### In this project we will employ deep learning model to classify the images to an arabic letter.
-## Dataset
+
 The dataset for this project originates from kaggle kernels which include  [Arabic Letters](https://www.kaggle.com/mloey1/ahcd1).
 
 All the datasets are CSV files representing the image pixels values and their corresponding label.
